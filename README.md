@@ -1,2 +1,2 @@
 # C-Assembly-Examples
-Examples that were worked on in COMP B13
+Examples and homework that were worked on in COMP B13
