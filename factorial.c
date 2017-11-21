@@ -10,11 +10,11 @@ int fact(int n)
 
 int main(void)
 {
-    int value = 0;
-    int result = 0;
+    int value;
+    int result;
 
     printf("Please enter an integer value: ");
-    scanf("%d",&value);
+    scanf("%d", &value);
 
     result = fact(value);
     printf("Your factorial of %d is %d\n",value, result);
